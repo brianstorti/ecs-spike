@@ -1,0 +1,5 @@
+export CLUSTER=testing-ecs
+export SERVICE=testing-ecs2
+export TASK_FAMILY=testing-ecs2
+export CONTAINER_NAME=testing-ecs
+export ECR_REPOSITORY=579859358947.dkr.ecr.us-east-1.amazonaws.com/brianstorti/testing-ecs
